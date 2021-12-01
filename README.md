@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Currently working as a Lead Developer Unity C# on [Crying Suns](https://cryingsuns.com) and some unannounced projects
+🔭 Currently working on [Crying Suns](https://cryingsuns.com) and some unannounced projects
 
 🔗 Personal account: [chsxf](https://github.com/chsxf)
 
