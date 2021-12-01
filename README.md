@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 Currently working as a Lead Developer Unity C# on [Crying Suns](https://cryingsuns.com) and some unannounced projects
+
+🔗 Personal account: [chsxf](https://github.com/chsxf)
+
 <!--
 **cs-altshift/cs-altshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
